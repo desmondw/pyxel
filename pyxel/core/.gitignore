@@ -1,3 +1,4 @@
 *.o
 include/win32
 include/win64
+.vscode
